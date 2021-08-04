@@ -31,7 +31,20 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 `yarn start`
 
-It will take a minute or two for the development server to start. Be patient.
+It will take a minute or two for the development server to start. Be patient. Upon success you'll see output similar to the following:
+
+```
+Compiled successfully!
+
+You can now view OpenAPIViewer in the browser.
+
+  Local:            http://localhost:3000
+  On Your Network:  http://192.168.86.20:3000
+
+Note that the development build is not optimized.
+To create a production build, use npm run build.
+
+```
 
 **Step 3:** View the Swagger/OpenAPI spec in the application
 
