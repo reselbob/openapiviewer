@@ -1,6 +1,6 @@
 # OpenAPI Viewer
 
-This project is a utility that renders a Swagger/OpenAPI specification hosted on SwaggerHub. The rendering is implemented using the `swagger-ui-react` component within the React framework.
+This project is a utility that renders a Swagger/OpenAPI specification hosted on SwaggerHub. The rendering is implemented using the [`swagger-ui-react`](https://www.npmjs.com/package/swagger-ui-react) component within the [React](https://reactjs.org/) framework.
 
 # Getting Up and Running
 
