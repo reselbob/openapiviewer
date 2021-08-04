@@ -2,6 +2,8 @@
 
 This project is a utility that renders a Swagger/OpenAPI specification hosted on SwaggerHub. The rendering is implemented using the [`swagger-ui-react`](https://www.npmjs.com/package/swagger-ui-react) component within the [React](https://reactjs.org/) framework.
 
+![IU](./errata/ui.jpg)
+
 # Getting Up and Running
 
 This application requires [Node.JS](https://nodejs.org/en/download/) and [Yarn](https://classic.yarnpkg.com/en/docs/install) to be installed on your local machine.
